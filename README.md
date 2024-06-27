@@ -1,4 +1,4 @@
-![Alt text](link "a title")
+![Alt text](./banner_profile.png "a title")
 
 ### hello 👋  my name is Chen and this is what i'm saying
 
